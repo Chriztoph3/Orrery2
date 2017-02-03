@@ -1,0 +1,175 @@
+﻿  boilerplate.cpp
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15519): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15519): error C2146: syntax error: missing ')' before identifier 'red'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15521): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15522): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15522): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15524): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15524): error C2146: syntax error: missing ')' before identifier 'left'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15525): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15526): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15526): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15527): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15528): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15528): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15529): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15529): error C2146: syntax error: missing ')' before identifier 'width'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15530): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15530): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15531): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15532): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15532): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15533): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15533): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15534): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15535): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15535): error C2146: syntax error: missing ')' before identifier 'nx'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15537): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15537): error C2146: syntax error: missing ')' before identifier 'left'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15538): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15538): error C2146: syntax error: missing ')' before identifier 'size'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15539): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15539): error C2146: syntax error: missing ')' before identifier 'factor'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15540): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15540): error C2146: syntax error: missing ')' before identifier 'angle'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15542): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15542): error C2146: syntax error: missing ')' before identifier 'x'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15543): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15544): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15544): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15545): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15546): error C2065: 'GLfixed': undeclared identifier
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15546): error C2146: syntax error: missing ')' before identifier 'x'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15590): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15590): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15592): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15593): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15594): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15595): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15596): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15597): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15598): error C2061: syntax error: identifier 'GLfixed'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15599): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15599): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15601): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(15601): error C2143: syntax error: missing ',' before '*'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16750): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16750): error C2146: syntax error: missing ';' before identifier '__glewClientActiveTexture'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16758): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16758): error C2146: syntax error: missing ';' before identifier '__glewLoadTransposeMatrixd'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16759): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16759): error C2146: syntax error: missing ';' before identifier '__glewLoadTransposeMatrixf'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16760): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16760): error C2146: syntax error: missing ';' before identifier '__glewMultTransposeMatrixd'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16761): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16761): error C2146: syntax error: missing ';' before identifier '__glewMultTransposeMatrixf'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16762): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16762): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1d'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16763): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16763): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1dv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16764): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16764): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1f'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16765): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16765): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1fv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16766): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16766): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1i'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16767): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16767): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1iv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16768): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16768): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1s'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16769): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16769): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord1sv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16770): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16770): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2d'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16771): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16771): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2dv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16772): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16772): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2f'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16773): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16773): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2fv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16774): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16774): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2i'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16775): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16775): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2iv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16776): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16776): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2s'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16777): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16777): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord2sv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16778): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16778): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3d'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16779): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16779): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3dv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16780): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16780): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3f'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16781): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16781): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3fv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16782): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16782): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3i'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16783): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16783): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3iv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16784): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16784): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3s'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16785): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16785): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord3sv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16786): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16786): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4d'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16787): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16787): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4dv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16788): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16788): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4f'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16789): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16789): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4fv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16790): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16790): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4i'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16791): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16791): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4iv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16792): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16792): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4s'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16793): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16793): error C2146: syntax error: missing ';' before identifier '__glewMultiTexCoord4sv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16799): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16799): error C2146: syntax error: missing ';' before identifier '__glewFogCoordPointer'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16800): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16800): error C2146: syntax error: missing ';' before identifier '__glewFogCoordd'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16801): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16801): error C2146: syntax error: missing ';' before identifier '__glewFogCoorddv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16802): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16802): error C2146: syntax error: missing ';' before identifier '__glewFogCoordf'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16803): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16803): error C2146: syntax error: missing ';' before identifier '__glewFogCoordfv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16810): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16810): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3b'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16811): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16811): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3bv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16812): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16812): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3d'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16813): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16813): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3dv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16814): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16814): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3f'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16815): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16815): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3fv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16816): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16816): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3i'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16817): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16817): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3iv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16818): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16818): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3s'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16819): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16819): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3sv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16820): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16820): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3ub'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16821): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16821): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3ubv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16822): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16822): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3ui'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16823): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16823): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3uiv'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16824): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16824): error C2146: syntax error: missing ';' before identifier '__glewSecondaryColor3us'
+d:\homework\cpsc585\orrery\orrery\orrery\glew-2.0.0\glew-2.0.0\include\GL\glew.h(16824): fatal error C1003: error count exceeds 100; stopping compilation
+  Camera.cpp
+Camera.cpp(24): warning C4305: '+=': truncation from 'double' to 'float'
+Camera.cpp(28): warning C4305: '-=': truncation from 'double' to 'float'
+Camera.cpp(33): warning C4305: '=': truncation from 'double' to 'float'
+Camera.cpp(37): warning C4305: '=': truncation from 'double' to 'float'
